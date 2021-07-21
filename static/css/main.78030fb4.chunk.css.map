@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,KACE,sBAAuB,CACxB,OAGC,kBAAmB,CACpB,MAGC,aAAc,CACd,kBAAmB,CACnB,gBAAiB","file":"main.78030fb4.chunk.css","sourcesContent":["html {\n  background-color: beige;\n}\n\nbutton {\n  margin-bottom: 20px;\n}\n\n.card {\n  max-width: 50%;\n  margin: 50px auto 0;\n  padding-top: 20px;\n}\n"]}
